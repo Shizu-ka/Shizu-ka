@@ -46,7 +46,8 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![SQL](https://img.shields.io/badge/SQL%20-%23F7DF1E.svg?style=for-the-badge&logo=MySQL&logoColor=black)
-   ![ReactJs](https://img.shields.io/badge/ReactJs%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![PHP](https://img.shields.io/badge/ReactJs%20-%23F7DF1E.svg?style=for-the-badge&logo=React&logoColor=black)
+   ![ReactJs](https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?style=for-the-badge&logo=PHP&logoColor=black)
 
 <br>
 
@@ -63,6 +64,8 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Intelij](https://img.shields.io/badge/Intelij-FCC624?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=black) 
+    ![XAMPP](https://img.shields.io/badge/XAMPP-FCC624?style=for-the-badge&logo=XAMPP&logoColor=black) 
 
 <br>
 
