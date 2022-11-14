@@ -20,8 +20,8 @@
 - A passionate Self-taught Full Stack developer
 - Participate in Competitive Programming at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](404)
+- Personal website [link](404)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/shizuka)
 
 <br><br>
 
