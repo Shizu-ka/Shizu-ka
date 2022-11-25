@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Self-taught Full Stack developer
-- Participate in Competitive Programming at spare time [cv](https://www.bootstrapdash.com/demo/coming-soon-template-free-1/)
+- Participate in Competitive Programming at spare time [cv](https://codeforces.com/profile/shizuka12)
 - Currently learning Web Development by Self
 - Personal website [link](https://www.bootstrapdash.com/demo/coming-soon-template-free-1/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/shizuka)
