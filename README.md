@@ -1,3 +1,5 @@
+<h1 align="center"><b>Hi , I'm Yosia (Shizuka) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![](https://komarev.com/ghpvc/?username=Shizu-ka&color=ff69b4)
 <br></br>
