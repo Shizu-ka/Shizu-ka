@@ -8,5 +8,7 @@
 <br></br>
  <a href="#stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shizu-ka&theme=dark&hide_border=true&hide=makefile" width="340" align=left alt="Shizu-ka"/></a>
 <a href="https://github.com/Shizu-ka/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shizu-ka&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shizu-ka&show_icons=true&theme=dark&hide_border=true" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shizu-ka&theme=dark&hide_border=true" alt="Shizu-ka" /></p>
+  </a>
    
