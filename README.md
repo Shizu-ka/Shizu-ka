@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hellow+World+...&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Machine+Learning+Enthusiast,;Love+Playing+With+Data,;Love+to+Learn+New+Stuffs..<3"></a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> ⚙️ Github Stats </b>
 ![](https://komarev.com/ghpvc/?username=Shizu-ka&color=ff69b4)
 <br></br>
  <a href="#stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shizu-ka&theme=tokyonight&hide_border=true&hide=makefile" width="340" align=left alt="Shizu-ka"/></a>
