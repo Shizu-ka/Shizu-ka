@@ -6,8 +6,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> ⚙️ Github Stats </b>
 ![](https://komarev.com/ghpvc/?username=Shizu-ka&color=ff69b4)
 <br></br>
- <a href="#stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shizu-ka&theme=tokyonight&hide_border=true&hide=makefile" width="340" align=left alt="Shizu-ka"/></a>
+
 <a href="https://github.com/Shizu-ka/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shizu-ka&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true" width="340" align=left alt="Shizu-ka" /> </p> 
+  <br></br>
   <img src="https://github-readme-stats.vercel.app/api?username=Shizu-ka&show_icons=true&theme=tokyonight&hide_border=true" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shizu-ka&theme=tokyonight&hide_border=true" alt="Shizu-ka" /></p>
   </a>
