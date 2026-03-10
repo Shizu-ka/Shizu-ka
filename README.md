@@ -8,9 +8,9 @@
 <br></br>
 
 <a href="https://github.com/Shizu-ka/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shizu-ka&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true" width="340" align=left alt="Shizu-ka" /> </p> 
+    <img src="https://rstats.shizuka.my.id/api/top-langs/?username=Shizu-ka&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true" width="340" align=left alt="Shizu-ka" /> </p> 
   <br></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shizu-ka&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://rstats.shizuka.my.id/api?username=Shizu-ka&show_icons=true&theme=tokyonight&hide_border=true" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shizu-ka&theme=tokyonight&hide_border=true" alt="Shizu-ka" /></p>
   </a>
 
