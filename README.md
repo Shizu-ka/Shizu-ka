@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/Shizu-ka/">
     <img src="https://rstats.shizuka.my.id/api/top-langs/?username=Shizu-ka&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true" width="340" />
-    <img src="https://rstats.shizuka.my.id/api?username=Shizu-ka&show_icons=true&theme=tokyonight&hide_border=true" width="380" />
+    <img src="https://rstats.shizuka.my.id/api?username=Shizu-ka&show_icons=true&theme=tokyonight&hide_border=true" width="500" />
   </a>
 </p>
 
